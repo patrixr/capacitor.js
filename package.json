@@ -1,6 +1,6 @@
 {
   "name": "capacitor.js",
-  "version": "1.0.1",
+  "version": "1.0.3",
   "description": "Functional utility method: a capacitor concept",
   "main": "index.js",
   "dependencies": {},

@@ -42,6 +42,6 @@ jobs:
           node-version: 12
           registry-url: https://npm.pkg.github.com/
           scope: '@patrixr'
-      - run: npm publish
+      - run: npm publish --registry=https://npm.pkg.github.com/patrixr
         env:
           NODE_AUTH_TOKEN: ${{secrets.github_publish_token}}
