@@ -1,6 +1,6 @@
 # Capacitor.js
 
-![](https://github.com/patrixr/capacitor.js/workflows/Test%20%26%20Publish/badge.svg)
+![](https://github.com/patrixr/capacitor.js/workflows/Test%20and%20Publish/badge.svg)
 
 [![forthebadge](https://forthebadge.com/images/badges/powered-by-electricity.svg)](https://forthebadge.com)
 [![forthebadge](https://forthebadge.com/images/badges/made-with-javascript.svg)](https://forthebadge.com)
